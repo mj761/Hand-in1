@@ -174,7 +174,7 @@ p{
 
 #myDiagramDiv{
  
-    background-image: url(/image/sky.jpg);
+    background-image: url(./image/sky.jpg);
     background-size: cover;
     
 }
