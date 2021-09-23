@@ -79,28 +79,28 @@ headerId.addEventListener('mouseover', function(){
 
 // eevee
    function shiny1() {
-    document.getElementById("eevee").src = "/image/eevee_shiny.png";
+    document.getElementById("eevee").src = "./image/eevee shiny.png";
   }
   function shiny2(){
-    document.getElementById("eevee").src = "/image/eevee.png";
+    document.getElementById("eevee").src = "./image/eevee.png";
   }
 
 // sylveon
 
 function shiny3() {
-    document.getElementById("sylveon").src = "/image/sylveon_shiny.png";
+    document.getElementById("sylveon").src = "./image/sylveon shiny.png";
   }
   function shiny4(){
-    document.getElementById("sylveon").src = "/image/sylveon.png";
+    document.getElementById("sylveon").src = "./image/sylveon.png";
   }
 
  // vaporean
  
  function shiny5() {
-    document.getElementById("vaporean").src = "/image/vaporean_shiny.png";
+    document.getElementById("vaporean").src = "./image/vaporean_shiny.png";
   }
   function shiny6(){
-    document.getElementById("vaporean").src = "/image/vaporean.png";
+    document.getElementById("vaporean").src = "./image/vaporean.png";
   }
 
 
@@ -235,7 +235,7 @@ copyMe.addEventListener('copy', () => {
    function addImage() {
 
     let img = document.createElement("img");
-    img.src = "/image/eevee.png";
+    img.src = "./image/eevee.png";
     img.height = 250;
     img.width = 250;
 
