@@ -79,7 +79,7 @@ headerId.addEventListener('mouseover', function(){
 
 // eevee
    function shiny1() {
-    document.getElementById("eevee").src = "/image/eevee shiny.png";
+    document.getElementById("eevee").src = "/image/eevee_shiny.png";
   }
   function shiny2(){
     document.getElementById("eevee").src = "/image/eevee.png";
@@ -88,7 +88,7 @@ headerId.addEventListener('mouseover', function(){
 // sylveon
 
 function shiny3() {
-    document.getElementById("sylveon").src = "/image/sylveon shiny.png";
+    document.getElementById("sylveon").src = "/image/sylveon_shiny.png";
   }
   function shiny4(){
     document.getElementById("sylveon").src = "/image/sylveon.png";
@@ -97,7 +97,7 @@ function shiny3() {
  // vaporean
  
  function shiny5() {
-    document.getElementById("vaporean").src = "/image/vaporean shiny.png";
+    document.getElementById("vaporean").src = "/image/vaporean_shiny.png";
   }
   function shiny6(){
     document.getElementById("vaporean").src = "/image/vaporean.png";
