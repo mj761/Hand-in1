@@ -97,7 +97,7 @@ function shiny3() {
  // vaporean
  
  function shiny5() {
-    document.getElementById("vaporean").src = "./image/vaporean_shiny.png";
+    document.getElementById("vaporean").src = "./image/vaporean shiny.png";
   }
   function shiny6(){
     document.getElementById("vaporean").src = "./image/vaporean.png";
